@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "stop_token": "cpp",
+        "system_error": "cpp",
+        "functional": "cpp"
+    }
+}
